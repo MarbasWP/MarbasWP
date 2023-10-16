@@ -12,7 +12,7 @@
 
 - :zap: Являюсь куратором в онлайн школе по подготовке к ЕГЭ по информатике
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/marbaswp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ilya_stezhko@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-marbaswp-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/marbaswp) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ilya_stezhko@mail.ru)
 
 ---
 
