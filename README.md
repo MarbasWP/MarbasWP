@@ -38,6 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/logo/Tableau/blob/master/images/logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
 </div>
